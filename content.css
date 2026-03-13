@@ -1,0 +1,9 @@
+.nbep-context-menu,
+.nbep-dropup {
+  font-family: 'DM Sans', Arial, sans-serif !important;
+}
+
+.nbep-context-menu *,
+.nbep-dropup * {
+  box-sizing: border-box;
+}
